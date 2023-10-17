@@ -1,4 +1,19 @@
 
+<h1 align="center">Hi 👋, I'm Shakib</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakib-bd&label=Profile%20views&color=0e75b6&style=flat" alt="shakib-bd" /> </p>
+
+- 📫 How to reach me **its.shakib@proton.me / theemorafsan@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/info_shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="info_shakib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shakibofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakibofficial" height="30" width="40" /></a>
+<a href="https://fb.com/shakibul.islam.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakibul.islam.official" height="30" width="40" /></a>
+<a href="https://instagram.com/shakibul.islam.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakibul.islam.official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/emorafsanshakill420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emorafsanshakill420" height="30" width="40" /></a>
+</p>
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shakibul.Islam.Official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shakibul.Islam.Official) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@emorafsanshakill420) 
